@@ -1,6 +1,8 @@
 # lustre-arduino
 Equipe (Colaboradores)
 
+Christopher Alencar Pereira Cordeiro 
+
 Luis Angel Rios Arredondo
 
 Leonardo Henrique Faria Dias

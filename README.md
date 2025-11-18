@@ -75,3 +75,4 @@ Professores adicionados como colaboradores
 
 GitHub Project criado dentro do repositório para acompanhamento
 
+https://www.tinkercad.com/things/lROCKEn23lQ/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits

@@ -9,6 +9,8 @@ Luis Angel Rios Arredondo
 
 Leonardo Henrique Faria Dias
 
+Alexandre Aguilar Pistolato Lopes
+
 Descrição do Projeto
 
 O projeto foi desenvolvido para a atividade de Ferramentas Colaborativas, com o objetivo de criar um lustre funcional utilizando LEDs e Arduino. O sistema simula três tipos de iluminação: iluminação contínua, iluminação intermitente automática e iluminação controlada por interação humana.

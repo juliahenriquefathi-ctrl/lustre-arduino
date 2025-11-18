@@ -3,6 +3,8 @@ Equipe (Colaboradores)
 
 Christopher Alencar Pereira Cordeiro 
 
+Pedro Almeida de Brito Martins 
+
 Luis Angel Rios Arredondo
 
 Leonardo Henrique Faria Dias
